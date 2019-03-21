@@ -2,10 +2,10 @@
 ![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/redditprivacy.png)
 
 __Important!__ 
-*This is a direct fork of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
-*[Main subreddit](https://www.reddit.com/r/Piracy)
+- This is a direct fork of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
+-[Main subreddit](https://www.reddit.com/r/Piracy)
 
-*Made By Magic Of Lolis
+- Made By Magic Of Lolis
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
 	- [VPNs](#VPNs)
