@@ -1,6 +1,8 @@
-# /r/Piracy Megathread Mirror
+## /r/Piracy Megathread Mirror
 ![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/redditprivacy.png)
-- Made by [Magic Of Lolis]()
+
+## Made by Magic Of Lolis
+
 __Important!__
 - This is a direct fork of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
