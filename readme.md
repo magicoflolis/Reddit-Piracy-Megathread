@@ -5,41 +5,41 @@ __Important:__ This is a direct fork of [Piracy Megathread & Wiki](https://www.r
 Goto [Main page](https://www.reddit.com/r/Piracy)
 
 ## TABLE OF CONTENTS
-- [PRIVACYnSECURITY](#PRIVACYnSECURITY)
+- [PRIVACY/SECURITY](#PRIVACY)
 	- [VPNs](#VPNs)
-	- [AdblockersnUsefulExtensions](#AdblockersnUsefulExtensions)
-	- [Useful userscripts](#Useful)
-- [TORRENT CLIENTS](#TORRENT CLIENTS)
-- [TORRENT INDEXERS/SITES](#TORRENT INDEXERS/SITES)
-- [EBOOKS/TEXTBOOKS](#EBOOKS/TEXTBOOKS)
-	- [Popular sites for books](#Popular sites for books)
-	- [Custom Search Engines](#Custom Search Engines)
-	- [Private trackers](#Private trackers)
+	- [AdblockersnUsefulExtensions](#Adblockers)
+	- [Useful userscripts](#Userscripts)
+- [TORRENT CLIENTS](#TORRENTCLIENTS)
+- [TORRENT INDEXERS/SITES](#TORRENTINDEXERS)
+- [EBOOKS/TEXTBOOKS](#EBOOKS)
+	- [Popular sites for books](#Sitesforbooks)
+	- [Custom Search Engines](#CustomSearchEngines)
+	- [Private trackers](#Privatetrackers)
 	- [Magazines](#Magazines)
 	- [Comics](#Comics)
-- [COURSES/TUTORIALS](#COURSES/TUTORIALS)
+- [COURSES/TUTORIALS](#COURSES)
 - [GAMES](#GAMES)
-	- [DDL sites (direct download)](#DDL sites (direct download))
-	- [Torrent sites](#Torrent sites)
+	- [DDL sites (direct download)](#DDL)
+	- [Torrent sites](#Torrentsites)
 	- [Roms](#Roms)
-- [MOVIES/SERIES (streaming)](#MOVIES/SERIES (streaming))
+- [MOVIES/SERIES (streaming)](#MOVIES)
 	- [Anime](#Anime)
 - [MUSIC](#MUSIC)
 - [ANDROID](#ANDROID)
-	- [Torrent clients](#Torrent clients)
-	- [APK download sites](#APK download sites)
+	- [Torrent clients](#Torrentclients)
+	- [APK download sites](#APK)
 	- [Apps](#Apps)
 - [TOOLS](#TOOLS)
-- [DIRECT DOWNLOAD SITES](#DIRECT DOWNLOAD SITES)
+- [DIRECT DOWNLOAD SITES](#DIRECTDOWNLOADSITES)
 - [MISCELLANEOUS](#MISCELLANEOUS)
-	- [Misc. apps:](#Misc. apps:)
-	- [Misc. websites:](#Misc. websites:)
-	- [Microsoft stuff:](#Microsoft stuff:)
+	- [Misc. apps:](#Miscapps)
+	- [Misc. websites:](#Miscwebsites)
+	- [Microsoft stuff:](#Microsoftstuff)
 		
 Update: The Piracy Megathread has been moved to the wiki! We now have the freedom to have multiple collaborators rather than rely on a single person. Our mod team will be able to update the thread with new findings and we will also be looking for active contributors to add as wiki collaborators. This wiki format also works to our favor in properly sectioning off parts of the Megathread.
 If you have any suggestions you'd like to see added to the Megathread, or would like to be added as a wiki collaborator, send us a mod mail here.
 
-## PRIVACYnSECURITY
+## PRIVACY
 
 ## VPNs
 - Popular VPN services aggressively market themselves on Reddit. Do not subscribe to a service just because Reddit deems it popular, cheap, or because it hits the front page. You are entrusting an entity with your personal data; do your own research. Keep in mind that VPN experiences are completely anecdotal. Someone's experience with a particular VPN may vary from location, servers, operating systems, downloads speeds, etc...
@@ -59,7 +59,7 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 
 
 
-## AdblockersnUsefulExtensions
+## Adblockers
 - [uBlock origin](https://github.com/gorhill/uBlock#installation) for blocking most ads and pop-ups.
 - [uBlock-safari](https://github.com/el1t/uBlock-Safari) port for Safari or MacOS users.
 - [uBlock origin extra](https://chrome.google.com/webstore/detail/ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco) - companion extension for websites that block ad-block extensions (even with Anti-Adblock Killer enabled in uBlock origin).
@@ -67,7 +67,7 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 
 
 
-## Useful Userscripts
+## Userscripts
 - [AdsBypasser](https://adsbypasser.github.io/) to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware#readme) to avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
 - [Get DLC Info From SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.[Orginal Piracy Link](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
@@ -75,13 +75,13 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 
 
 
-## TORRENT CLIENTS
+## TORRENTCLIENTS
 - [Deluge](https://dev.deluge-torrent.org/) - similar to qbittorrent with a different UI some may find clunky.
 - [Qbittorrent](https://www.qbittorrent.org/download.php) - free open-sourced client. No ads and has a built-in search feature that searches popular public trackers. Consistently updated.
 - [Tixati](https://www.tixati.com/) - extremely customizable. All menus can be rearranged and color scheme can be changed completely. Many private trackers however may not permit this client to be used.
 - [Transmission](https://transmissionbt.com/) - popular macOS and unix torrent client.
 
-## TORRENT INDEXERS/SITES
+## TORRENTINDEXERS
 Ordered alphabetically. Make sure your adblocker is on.
 - [1337x.to](https://1337x.to/)
 - [limetorrents.cc](https://www.limetorrents.info/)
@@ -99,7 +99,7 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 
 
 
-## EBOOKS/TEXTBOOKS
+## EBOOKS
 If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this [guide]() on how to deDRM your book.
 If the ebook you are searching is available for kindle, you may also [borrow]() the ebook, use the guide, and then return it back.
 
@@ -108,7 +108,7 @@ If the ebook you are searching is available for kindle, you may also [borrow]() 
 https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/
 https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
 
-## Popular sites for books
+## Sitesforbooks
 - [Library Genesis](http://libgen.io/) - most popular ebook site and provides several mirrors to ebooks including torrents.
 	- [mirror - gen.lib.rus.ec](http://gen.lib.rus.ec/)
 - [b-ok.org](https://b-ok.org/) - formerly known as Bookzz.
@@ -120,14 +120,14 @@ https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks
 - [audiobookbay.pl](http://audiobookbay.pl/) - #1 site for audiobooks. Shares a lot of content with MAM.
 - [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
 
-## Custom Search Engines
+## CustomSearchEngines
 - [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/findingtextbooks.md).
 - [r/Piracy updated ebooks CSE](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
 
 *Original Links:
 https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
 
-## Private trackers
+## Privatetrackers
 - [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - private tracker for ebooks/audiobooks
 - [bibliotik](https://bibliotik.me/) - private tracker for ebooks/audiobooks
 
@@ -153,7 +153,7 @@ Issues with Calibre? Visit its forum for help/support:
 
 
 
-## COURSES/TUTORIALS
+## COURSES
 - See Section III & X. Many popular torrent indexers have courses such as Rutracker, 1337x.to, and demonoid.pw.
 - [freetutorials.us](https://www.freetutorials.us/) - Udemy, Lynda, Pluralsight courses available via torrents.
 *MAGIC'S NOTE: freetutorials.us & freetutorials.eu ARE NO LONGER WORKING!!!
@@ -165,12 +165,12 @@ Alternative [TUTSGALAXY](https://tutsgalaxy.com/)
 
 ## GAMES
 
-## DDL sites (direct download)
+## DDL
 - [fitgirl-repacks.site](http://fitgirl-repacks.site/) - compressed game repacks with long installation times.
 - [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - dedicated game piracy forum.
 *MAGIC'S NOTE: cs.rin.ru REQUIRES you to SIGNUP IF you wanna DOWNLOAD or COMMENT from the site.
 
-## Torrent sites
+## Torrentsites
 - [gamestorrents.io](https://www.gamestorrents.tv/)
 - [rutor.info](http://rutor.info/games)
 - Refer to [TORRENT INDEXERS/SITES](#TORRENT INDEXERS/SITES) for more trackers/indexers.
@@ -190,7 +190,7 @@ Scene groups do not have official websites. If you find a site using the name of
 
 
 
-## MOVIES/SERIES (streaming)
+## MOVIES
 Make sure your adblocker is on.
 - [StreamCR](https://scr.cr/)
 *MAGIC'S NOTE: 
@@ -234,12 +234,12 @@ For streaming with Kodi, visit [r/Addons4Kodi](https://www.reddit.com/r/Addons4K
 
 ## ANDROID
 
-## Torrent clients
+## Torrentclients
 - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en) - free ad-supported client.
 - [Libretorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) - ad-free open source client. Similar UI to Flud.
 - [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) - no nonsense, ad-free, open source client.
 
-## APK download sites
+## APK
 - [Mobilism.org](https://forum.mobilism.org/viewforum.php?f=398) - largest forum for pirated apps, games, ebooks, etc...
 - [onhax.me](https://onhax.me/) - similar content to mobilism. Use an adblocker when browsing.
 - [apkmirror.com](https://www.apkmirror.com/) - contains untouched and signed release apks. Useful if searching for a prior version of an application.
@@ -269,7 +269,7 @@ For:
 
 
 
-## DIRECT DOWNLOAD SITES
+## DIRECTDOWNLOADSITES
 - https://www.warez-bb.org/ (general)
 - http://adit-hd.com - (films/series)
 - http://rlsbb.ru- general releases (usually hosted on premium filehosters)
@@ -279,13 +279,13 @@ For:
 
 ## MISCELLANEOUS
 
-## Misc. apps:
+## Miscapps
 
 - [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - lightweight program that pulls Windows and Office isos directly from Microsoft's techbench site. All .isos are untouched and safe.
 - [MegaDownloader] - Batch download Mega links like IDM or jDownloader. Bypass Mega bandwidth limit completely given you have a VPN or are able to switch IP addresses on the fly.
 - [EZBlocker] – Spotify Ad Blocker - lightweight .exe that blocks and mutes Spotify ads on Windows.
 
-## Misc. websites:
+## Miscwebsites
 
 - [u/wtfdidijustdoshit's extensive list of must-have Android apps, and Android apk forums.]
 - [Squawkr.io] - Get notified when a movie releases. You can also set parameters such resolution.
@@ -296,7 +296,7 @@ For:
 - [emuparadise.me ]- NDS ROMS, PSP ROMS, PSX ROMS, NES ROMS, SNES ROMS, MAME WII ROMS, etc...
 - [Vimm's Lair] - large collection of ROMs
 
-## Microsoft stuff:
+## Microsoftstuff
 
 - [[Microsoft .iso torrents] - [Digitalriver download links from Microsoft](http://mirror.corenoc.de/digitalrivercontent.net/) -Untouched Windows 7 .isos
 - [[Microsoft .iso DDLs] - https://tb.rg-adguard.net/index.php - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+.
