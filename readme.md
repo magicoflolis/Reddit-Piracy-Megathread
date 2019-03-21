@@ -5,7 +5,7 @@ __Important:__ This is a direct fork of [Piracy Megathread & Wiki](https://www.r
 Goto [Main page](https://www.reddit.com/r/Piracy)
 
 ## TABLE OF CONTENTS
-- [PRIVACY/SECURITY](PRIVACYSECURITY)
+- [PRIVACY/SECURITY](#PRIVACY/SECURITY)
 	- [VPNs](#VPNs)
 	- [Adblockers & useful extensions](#Adblockers & useful extension)
 	- [Useful userscripts](#Useful userscripts)
