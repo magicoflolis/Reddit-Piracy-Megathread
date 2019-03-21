@@ -1,11 +1,11 @@
-# /r/Piracy Megathread Fork
+# /r/Piracy Megathread Mirror
 ![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/redditprivacy.png)
 
 __Important:__ This is a direct fork of [Piracy Megathread & Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 Goto [Main page](https://www.reddit.com/r/Piracy)
 
 ## TABLE OF CONTENTS
-- [PRIVACY/SECURITY](#PRIVACY/SECURITY)
+- [PRIVACYnSECURITY](#PRIVACYnSECURITY)
 	- [VPNs](#VPNs)
 	- [Adblockers & useful extensions](#Adblockers & useful extension)
 	- [Useful userscripts](#Useful userscripts)
@@ -39,7 +39,7 @@ Goto [Main page](https://www.reddit.com/r/Piracy)
 Update: The Piracy Megathread has been moved to the wiki! We now have the freedom to have multiple collaborators rather than rely on a single person. Our mod team will be able to update the thread with new findings and we will also be looking for active contributors to add as wiki collaborators. This wiki format also works to our favor in properly sectioning off parts of the Megathread.
 If you have any suggestions you'd like to see added to the Megathread, or would like to be added as a wiki collaborator, send us a mod mail here.
 
-## PRIVACY/SECURITY
+## PRIVACYnSECURITY
 
 ## VPNs
 - Popular VPN services aggressively market themselves on Reddit. Do not subscribe to a service just because Reddit deems it popular, cheap, or because it hits the front page. You are entrusting an entity with your personal data; do your own research. Keep in mind that VPN experiences are completely anecdotal. Someone's experience with a particular VPN may vary from location, servers, operating systems, downloads speeds, etc...
