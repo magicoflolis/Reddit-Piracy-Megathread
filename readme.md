@@ -7,8 +7,8 @@ Goto [Main page](https://www.reddit.com/r/Piracy)
 ## TABLE OF CONTENTS
 - [PRIVACYnSECURITY](#PRIVACYnSECURITY)
 	- [VPNs](#VPNs)
-	- [Adblockers & useful extensions](#Adblockers & useful extension)
-	- [Useful userscripts](#Useful userscripts)
+	- [AdblockersnUsefulExtensions](#AdblockersnUsefulExtensions)
+	- [Useful userscripts](#Useful)
 - [TORRENT CLIENTS](#TORRENT CLIENTS)
 - [TORRENT INDEXERS/SITES](#TORRENT INDEXERS/SITES)
 - [EBOOKS/TEXTBOOKS](#EBOOKS/TEXTBOOKS)
@@ -59,7 +59,7 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 
 
 
-## Adblockers & useful extensions
+## AdblockersnUsefulExtensions
 - [uBlock origin](https://github.com/gorhill/uBlock#installation) for blocking most ads and pop-ups.
 - [uBlock-safari](https://github.com/el1t/uBlock-Safari) port for Safari or MacOS users.
 - [uBlock origin extra](https://chrome.google.com/webstore/detail/ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco) - companion extension for websites that block ad-block extensions (even with Anti-Adblock Killer enabled in uBlock origin).
@@ -67,7 +67,7 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 
 
 
-## Useful userscripts
+## Useful Userscripts
 - [AdsBypasser](https://adsbypasser.github.io/) to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware#readme) to avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
 - [Get DLC Info From SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.[Orginal Piracy Link](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
