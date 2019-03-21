@@ -3,33 +3,33 @@
 
 __Important:__ This is a direct fork of [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
 ## TABLE OF CONTENTS
-- [I. PRIVACY/SECURITY] (#I. PRIVACY/SECURITY)
-        - [VPNs] (#VPNs)
+- [PRIVACY/SECURITY](PRIVACY/SECURITY)
+        - [VPNs](#VPNs)
         - Adblockers & useful extensions
         - Useful userscripts
-- II. TORRENT CLIENTS
-- III. TORRENT INDEXERS/SITES
-- IV. EBOOKS/TEXTBOOKS
+- TORRENT CLIENTS
+- TORRENT INDEXERS/SITES
+- EBOOKS/TEXTBOOKS
         - Popular sites for books
         - Custom Search Engines
         - Private trackers
         - Magazines
         - Comics
-- V. COURSES/TUTORIALS
-- VI. GAMES
+- COURSES/TUTORIALS
+- GAMES
         - DDL sites (direct download)
         - Torrent sites
         - Roms
-- VII. MOVIES/SERIES (streaming)
+- MOVIES/SERIES (streaming)
         - Anime
-- VIII. MUSIC
-- IX. ANDROID
+- MUSIC
+- ANDROID
         - Torrent clients
         - APK download sites
         - Apps
-- X. TOOLS
-- XI. DIRECT DOWNLOAD SITES
-- XII. MISCELLANEOUS
+- TOOLS
+- DIRECT DOWNLOAD SITES
+- MISCELLANEOUS
         - Misc. apps:
         - Misc. websites:
         - Microsoft stuff:
