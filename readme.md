@@ -7,7 +7,7 @@ Goto [Main page](https://www.reddit.com/r/Piracy)
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
 	- [VPNs](#VPNs)
-	- [AdblockersnUsefulExtensions](#Adblockers)
+	- [Adblockers & useful extensions](#Adblockers)
 	- [Useful userscripts](#Userscripts)
 - [TORRENT CLIENTS](#TORRENTCLIENTS)
 - [TORRENT INDEXERS/SITES](#TORRENTINDEXERS)
