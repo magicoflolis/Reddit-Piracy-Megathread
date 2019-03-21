@@ -100,8 +100,8 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 
 
 ## EBOOKS
-If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this [guide]() on how to deDRM your book.
-If the ebook you are searching is available for kindle, you may also [borrow]() the ebook, use the guide, and then return it back.
+If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this ![guide](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/copykindle.md) on how to deDRM your book.
+If the ebook you are searching is available for kindle, you may also ![borrow](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/renttextbooks.md) the ebook, use the guide, and then return it back.
 
 
 *Original Links:
@@ -121,7 +121,7 @@ https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks
 - [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
 
 ## CustomSearchEngines
-- [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/findingtextbooks.md).
+- [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/findingtextbooks.md).
 - [r/Piracy updated ebooks CSE](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
 
 *Original Links:
