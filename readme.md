@@ -1,11 +1,14 @@
 ## /r/Piracy Megathread Mirror
 ![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/redditprivacy.png)
 
-## Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
+Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 
 ## Important!
-- This is a direct fork of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
+- This is a direct fork and copy of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
+
+## THIS IS STILL A WIP!
+- Latest update: 3/21/19
 
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
@@ -171,14 +174,13 @@ Alternative [TUTSGALAXY](https://tutsgalaxy.com/)
 ## DDL
 - [fitgirl-repacks.site](http://fitgirl-repacks.site/) - compressed game repacks with long installation times.
 - [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - dedicated game piracy forum.
-*MAGIC'S NOTE: cs.rin.ru REQUIRES you to SIGNUP IF you wanna DOWNLOAD or COMMENT from the site.
+- *MAGIC'S NOTE: cs.rin.ru REQUIRES you to SIGNUP IF you wanna DOWNLOAD or COMMENT from the site.
 
 ## Torrentsites
 - [gamestorrents.io](https://www.gamestorrents.tv/)
 - [rutor.info](http://rutor.info/games)
-- Refer to [TORRENT INDEXERS/SITES](#TORRENT INDEXERS/SITES) for more trackers/indexers.
-*Original Links:
-- Refer to [Section III](#TORRENT INDEXERS/SITES) for more trackers/indexers.
+- Refer to [TORRENT INDEXERS/SITES](#TORRENTINDEXERS) for more trackers/indexers.
+- Refer to [Section III](#TORRENTINDEXERS) for more trackers/indexers.
 
 ## Roms
 - [the-eye.eu](http://the-eye.eu/public/rom/) - large collection of multi-platform console roms
@@ -196,10 +198,9 @@ Scene groups do not have official websites. If you find a site using the name of
 ## MOVIES
 Make sure your adblocker is on.
 - [StreamCR](https://scr.cr/)
-*MAGIC'S NOTE: 
 - [fmovies.to](https://fmovies.to/)
 - [solarmoviez.ru](https://solarmoviez.ru/)
-	- Mirrors: [solarmoviesc](https://solarmoviesc.com
+	- Mirrors: [solarmoviesc](https://solarmoviesc.com)
 - [yesmovies.to](https://yesmovies.to/)
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#streaming-sites) - curated list of streaming sites - Reddit thread here.
 - [How to Stream, Movies, TV, Anime & Sports](https://old.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - large collection of streaming sites categorized by speed and quality.
@@ -207,8 +208,8 @@ Make sure your adblocker is on.
 ## Anime
 - [animekaizoku.com](https://animekaizoku.com/)
 - [masterani.me](https://www.masterani.me/)
-*MAGIC'S NOTE: masterani.me has been DISCONTINUED
-*[Discord](https://discordapp.com/invite/M6fzsf8)
+- *MAGIC'S NOTE: masterani.me has been DISCONTINUED
+- *[Discord](https://discordapp.com/invite/M6fzsf8)
 ![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/masterani.me.png)
 - [gogoanime.in](https://gogoanime.tv)
 - [9anime.to](https://9anime.to/)
@@ -311,6 +312,3 @@ For:
 Credits to u/Klappa4Me for doing a lot of the heavy lifting.
 Last revised by dysgraphical
 - 2 months ago
-
-
-
