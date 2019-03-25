@@ -295,7 +295,7 @@ Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathrea
 
 ## Miscwebsites
 
-- [u/wtfdidijustdoshit](https://www.reddit.com/u/wtfdidijustdoshit)'s ![extensive list of must-have Android apps, and Android apk forums.](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/mhaa.md)
+- [u/wtfdidijustdoshit](https://www.reddit.com/u/wtfdidijustdoshit)'s ![extensive list of must-have Android apps, and Android apk forums.](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/mhaa.md)
 - [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such resolution.
 - [predb.me](https://predb.me/) - livestream of searchable releases.
 - [subscene.com](https://subscene.com/) - multinlingual subtitles for movies/series
