@@ -19,7 +19,7 @@ Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 - [TORRENT CLIENTS](#TORRENTCLIENTS)
 - [TORRENT INDEXERS/SITES](#TORRENTINDEXERS)
 - [EBOOKS/TEXTBOOKS](#EBOOKS)
-	- [Popular sites for books](#Sitesforbooks)
+	- [Popular sites for books](#popular_sites_for_books)
 	- [Custom Search Engines](#CustomSearchEngines)
 	- [Private trackers](#Privatetrackers)
 	- [Magazines](#Magazines)
@@ -110,12 +110,7 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this ![guide](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/copykindle.md) on how to deDRM your book.
 If the ebook you are searching is available for kindle, you may also ![borrow](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/renttextbooks.md) the ebook, use the guide, and then return it back.
 
-
-*Original Links:
-https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/
-https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/
-
-## Sitesforbooks
+## Popular sites for books
 - [Library Genesis](http://libgen.io/) - most popular ebook site and provides several mirrors to ebooks including torrents.
 	- [mirror - gen.lib.rus.ec](http://gen.lib.rus.ec/)
 - [b-ok.org](https://b-ok.org/) - formerly known as Bookzz.
@@ -130,9 +125,6 @@ https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks
 ## CustomSearchEngines
 - [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/findingtextbooks.md).
 - [r/Piracy updated ebooks CSE](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
-
-*Original Links:
-https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/
 
 ## Privatetrackers
 - [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - private tracker for ebooks/audiobooks
