@@ -77,7 +77,7 @@ If you have any suggestions you'd like to see added to the Megathread, or would 
 ## Userscripts
 - [AdsBypasser](https://adsbypasser.github.io/) to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware#readme) to avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
-- [Get DLC Info From SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.[Orginal Piracy Link](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
+- [Get DLC Info From SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
 - [uBlock Protector (Chromium)](https://jspenguin2017.github.io/uBlockProtector/) similar to Adblock Protector 2. (For chromium broswers)
 
 
@@ -209,8 +209,8 @@ Make sure your adblocker is on.
 ## Anime
 - [animekaizoku.com](https://animekaizoku.com/)
 - [masterani.me](https://www.masterani.me/)
-- *MAGIC'S NOTE: masterani.me has been ![DISCONTINUED](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/masterani.me.png)
-- *[Discord](https://discordapp.com/invite/M6fzsf8)
+*MAGIC'S NOTE: masterani.me has been ![DISCONTINUED](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/masterani.me.png)*
+*[masterani.me Discord](https://discordapp.com/invite/M6fzsf8)*
 - [gogoanime.in](https://gogoanime.tv)
 - [9anime.to](https://9anime.to/)
 - [kissanime.ru](https://kissanime.ru/)
@@ -225,14 +225,13 @@ For streaming with Kodi, visit [r/Addons4Kodi](https://www.reddit.com/r/Addons4K
 
 ## MUSIC
 - Deezloader [app] - Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well. Can be found in [thepiratebay.org](https://thepiratebay.org/).
-	- updated fork with FLAC support can be found here. [Discontinuted]
-*MAGIC'S NOTE: Alternative [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr)
+	- updated fork with FLAC support can be found here.[Discontinuted]
+## MAGIC'S NOTE: Alternative [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr)
 - [rutracker.org](https://rutracker.org/forum/index.php) - Russian tracker with an extensive music catalog.
 - [Redacted.ch](https://redacted.ch/) - private music tracker. Visit [interviewfor.red](https://interviewfor.red/en/index.html) to join.
 - [Soulseek](https://www.slsknet.org/news/node/1) - P2P network used for music.
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - command-line program to download video/audio from Youtube videos and other sites.
 - [Youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - GUI for youtube-dl for those not proficient in using the command line.
-
 
 
 
@@ -266,9 +265,10 @@ For:
 - KMSpico
 - Windows Loaders
 
-- Visit the ![wiki here](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/).
+- Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/wiki.md).
 
 - [u/Apodacaac](https://www.reddit.com/u/Apodacaac) has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS] and [Windows]
+
 *MAGIC'S NOTE:[MacOS] and [Windows] are DEAD LINKS*
 
 
@@ -299,13 +299,14 @@ For:
 
 ## Microsoftstuff
 
-- [[Microsoft .iso torrents] - [Digitalriver download links from Microsoft](http://mirror.corenoc.de/digitalrivercontent.net/) -Untouched Windows 7 .isos
-- [[Microsoft .iso DDLs] - https://tb.rg-adguard.net/index.php - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+.
-- [[Microsoft .iso DDLs] - https://tb.rg-adguard.net/products.html - Latest Microsoft Products Dump (latest releases)
-- [[Microsoft .iso DDLs] - [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find .isos.
+- [Microsoft .iso torrents] - [Digitalriver download links from Microsoft](http://mirror.corenoc.de/digitalrivercontent.net/) -Untouched Windows 7 .isos
+- [Microsoft .iso DDLs] - https://tb.rg-adguard.net/index.php - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+.
+- [Microsoft .iso DDLs] - https://tb.rg-adguard.net/products.html - Latest Microsoft Products Dump (latest releases)
+- [Microsoft .iso DDLs] - [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find .isos.
 
  
 
 Credits to [u/Klappa4Me](https://www.reddit.com/u/Klappa4Me) for doing a lot of the heavy lifting.
+
 Last revised by [dysgraphical](https://www.reddit.com/user/dysgraphical) - 2 months ago
 
