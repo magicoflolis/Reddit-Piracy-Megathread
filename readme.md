@@ -110,7 +110,7 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this ![guide](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/copykindle.md) on how to deDRM your book.
 If the ebook you are searching is available for kindle, you may also ![borrow](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/renttextbooks.md) the ebook, use the guide, and then return it back.
 
-## Popular sites for books
+## Popular_sites_for_books
 - [Library Genesis](http://libgen.io/) - most popular ebook site and provides several mirrors to ebooks including torrents.
 	- [mirror - gen.lib.rus.ec](http://gen.lib.rus.ec/)
 - [b-ok.org](https://b-ok.org/) - formerly known as Bookzz.
