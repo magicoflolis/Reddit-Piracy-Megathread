@@ -155,8 +155,10 @@ Issues with Calibre? Visit its forum for help/support:
 ## COURSES
 - See Section III & X. Many popular torrent indexers have courses such as Rutracker, 1337x.to, and demonoid.pw.
 - [freetutorials.us](https://www.freetutorials.us/) - Udemy, Lynda, Pluralsight courses available via torrents.
-*MAGIC'S NOTE: freetutorials.us & freetutorials.eu ARE NO LONGER WORKING!!!
-Alternative [TUTSGALAXY](https://tutsgalaxy.com/)
+
+*MAGIC'S NOTE: freetutorials.us & freetutorials.eu ARE NO LONGER WORKING!!!*
+- *Alternative [TUTSGALAXY](https://tutsgalaxy.com/)*
+
 - [gfxdomain.net](https://forum.gfxdomain.net/forums/others-tutorials.42/) - computer graphics design tutorials/courses via fileshosters (some through torrents).
 - [git.ir](https://git.ir/) - hosts many courses/tutorials from udemy, tutsplus, lynda, etc... Available through direct download links.
 
@@ -167,7 +169,8 @@ Alternative [TUTSGALAXY](https://tutsgalaxy.com/)
 ## DDL
 - [fitgirl-repacks.site](http://fitgirl-repacks.site/) - compressed game repacks with long installation times.
 - [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - dedicated game piracy forum.
-- *MAGIC'S NOTE: cs.rin.ru REQUIRES you to SIGNUP IF you wanna DOWNLOAD or COMMENT from the site.
+
+*MAGIC'S NOTE: cs.rin.ru REQUIRES you to SIGNUP IF you wanna DOWNLOAD or COMMENT from the site.
 
 ## Torrentsites
 - [gamestorrents.io](https://www.gamestorrents.tv/)
@@ -201,8 +204,10 @@ Make sure your adblocker is on.
 ## Anime
 - [animekaizoku.com](https://animekaizoku.com/)
 - [masterani.me](https://www.masterani.me/)
+
 *MAGIC'S NOTE: masterani.me has been ![DISCONTINUED](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/masterani.me.png)*
-*[masterani.me Discord](https://discordapp.com/invite/M6fzsf8)*
+	- *[masterani.me's Discord](https://discordapp.com/invite/M6fzsf8)*
+
 - [gogoanime.in](https://gogoanime.tv)
 - [9anime.to](https://9anime.to/)
 - [kissanime.ru](https://kissanime.ru/)
@@ -218,7 +223,9 @@ For streaming with Kodi, visit [r/Addons4Kodi](https://www.reddit.com/r/Addons4K
 ## MUSIC
 - Deezloader [app] - Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well. Can be found in [thepiratebay.org](https://thepiratebay.org/).
 	- updated fork with FLAC support can be found here.[Discontinuted]
-## MAGIC'S NOTE: Alternative [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr)
+
+*MAGIC'S NOTE: Alternative [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr)*
+
 - [rutracker.org](https://rutracker.org/forum/index.php) - Russian tracker with an extensive music catalog.
 - [Redacted.ch](https://redacted.ch/) - private music tracker. Visit [interviewfor.red](https://interviewfor.red/en/index.html) to join.
 - [Soulseek](https://www.slsknet.org/news/node/1) - P2P network used for music.
