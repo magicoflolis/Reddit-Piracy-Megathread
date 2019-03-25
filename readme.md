@@ -265,7 +265,6 @@ For streaming with Kodi, visit [r/Addons4Kodi](https://www.reddit.com/r/Addons4K
 
 
 
-
 ## TOOLS
 For:
 - Microsoft Toolkit
@@ -273,9 +272,9 @@ For:
 - KMSpico
 - Windows Loaders
 
-- Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/wiki.md).
+Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/tree/master/data/wiki.md).
 
-- [u/Apodacaac](https://www.reddit.com/u/Apodacaac) has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS] and [Windows]
+[u/Apodacaac](https://www.reddit.com/u/Apodacaac) has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS] and [Windows]
 
 *MAGIC'S NOTE:[MacOS] and [Windows] are DEAD LINKS*
 
