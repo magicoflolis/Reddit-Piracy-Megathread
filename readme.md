@@ -277,7 +277,7 @@ Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathrea
 
 [u/Apodacaac](https://www.reddit.com/u/Apodacaac) has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS](https://drive.google.com/file/d/0BxfywKwnIU2JY1RxV0M0U0J1Z1E/view) and [Windows](https://drive.google.com/file/d/0BxfywKwnIU2JdFFraUxhVkllbnc/view)
 
-*MAGIC'S NOTE:[MacOS] and [Windows] are DEAD LINKS*
+*MAGIC'S NOTE: [MacOS] and [Windows] are DEAD LINKS*
 
 
 ## DIRECTDOWNLOADSITES
