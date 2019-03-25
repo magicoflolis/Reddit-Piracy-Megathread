@@ -1,10 +1,10 @@
-## /r/Piracy Megathread Mirror
-![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/redditprivacy.png)
+## /r/Piracy Megathread Archive
+![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/redditprivacy.png)
 
 Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 
 ## Important!
-- This is a direct fork and copy of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
+- This is an archive of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
 
 ## THIS IS STILL A WIP!
@@ -106,8 +106,8 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 
 
 ## EBOOKS
-If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this ![guide](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/copykindle.md) on how to deDRM your book.
-If the ebook you are searching is available for kindle, you may also ![borrow](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/renttextbooks.md) the ebook, use the guide, and then return it back.
+If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this ![guide](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/copykindle.md) on how to deDRM your book.
+If the ebook you are searching is available for kindle, you may also ![borrow](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/renttextbooks.md) the ebook, use the guide, and then return it back.
 
 
 *Original Links:
@@ -127,7 +127,7 @@ https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks
 - [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
 
 ## CustomSearchEngines
-- [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread/blob/master/data/findingtextbooks.md).
+- [u/Amosqu's CSE](https://cse.google.com/cse?cx=011394183039475424659:5bfyqg89ers) - scours in many sites listed above. See his thread ![here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathread/blob/master/data/findingtextbooks.md).
 - [r/Piracy updated ebooks CSE](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
 
 *Original Links:
@@ -208,9 +208,8 @@ Make sure your adblocker is on.
 ## Anime
 - [animekaizoku.com](https://animekaizoku.com/)
 - [masterani.me](https://www.masterani.me/)
-- *MAGIC'S NOTE: masterani.me has been DISCONTINUED
+- *MAGIC'S NOTE: masterani.me has been ![DISCONTINUED](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/masterani.me.png)
 - *[Discord](https://discordapp.com/invite/M6fzsf8)
-![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Privacy-Megathread/master/data/masterani.me.png)
 - [gogoanime.in](https://gogoanime.tv)
 - [9anime.to](https://9anime.to/)
 - [kissanime.ru](https://kissanime.ru/)
@@ -266,11 +265,10 @@ For:
 - KMSpico
 - Windows Loaders
 
-- Visit the [wiki here]().
+- Visit the ![wiki here](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/).
 
-- [u/Apodacaac has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS] and [Windows]
-
-
+- [u/Apodacaac](https://www.reddit.com/u/Apodacaac) has published two very easy to follow 'How to Patch Adobe CC 2017" guides for [MacOS] and [Windows]
+*MAGIC'S NOTE:[MacOS] and [Windows] are DEAD LINKS*
 
 
 ## DIRECTDOWNLOADSITES
@@ -280,25 +278,23 @@ For:
 
 
 
-
 ## MISCELLANEOUS
 
 ## Miscapps
-
 - [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - lightweight program that pulls Windows and Office isos directly from Microsoft's techbench site. All .isos are untouched and safe.
-- [MegaDownloader] - Batch download Mega links like IDM or jDownloader. Bypass Mega bandwidth limit completely given you have a VPN or are able to switch IP addresses on the fly.
-- [EZBlocker] – Spotify Ad Blocker - lightweight .exe that blocks and mutes Spotify ads on Windows.
+- [MegaDownloader](https://megadownloaderapp.blogspot.com/2013/02/download-links-english.html) - Batch download Mega links like IDM or jDownloader. Bypass Mega bandwidth limit completely given you have a VPN or are able to switch IP addresses on the fly.
+- [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) – Spotify Ad Blocker - lightweight .exe that blocks and mutes Spotify ads on Windows.
 
 ## Miscwebsites
 
-- [u/wtfdidijustdoshit's extensive list of must-have Android apps, and Android apk forums.]
-- [Squawkr.io] - Get notified when a movie releases. You can also set parameters such resolution.
-- [predb.me] - livestream of searchable releases.
-- [subscene.com] - multinlingual subtitles for movies/series
-- [addic7ed.com] - multinlingual subtitles for movies/series
-- [Free Premium Leechers List] - maintained by u/H1dd3nM1nd
-- [emuparadise.me ]- NDS ROMS, PSP ROMS, PSX ROMS, NES ROMS, SNES ROMS, MAME WII ROMS, etc...
-- [Vimm's Lair] - large collection of ROMs
+- [u/wtfdidijustdoshit](https://www.reddit.com/u/wtfdidijustdoshit)'s ![extensive list of must-have Android apps, and Android apk forums.](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/mhaa.md)
+- [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such resolution.
+- [predb.me](https://predb.me/) - livestream of searchable releases.
+- [subscene.com](https://subscene.com/) - multinlingual subtitles for movies/series
+- [addic7ed.com](http://www.addic7ed.com/) - multinlingual subtitles for movies/series
+- [Free Premium Leechers List](https://filehostlist.miraheze.org/) - maintained by [u/H1dd3nM1nd](https://www.reddit.com/u/H1dd3nM1nd)
+- [emuparadise.me](https://www.emuparadise.me/) - NDS ROMS, PSP ROMS, PSX ROMS, NES ROMS, SNES ROMS, MAME WII ROMS, etc...
+- [Vimm's Lair](https://vimm.net/?p=vault) - large collection of ROMs
 
 ## Microsoftstuff
 
@@ -309,6 +305,6 @@ For:
 
  
 
-Credits to u/Klappa4Me for doing a lot of the heavy lifting.
-Last revised by dysgraphical
-- 2 months ago
+Credits to [u/Klappa4Me](https://www.reddit.com/u/Klappa4Me) for doing a lot of the heavy lifting.
+Last revised by [dysgraphical](https://www.reddit.com/user/dysgraphical) - 2 months ago
+
