@@ -8,7 +8,7 @@ My Contact Info:
 - [Twitter](https://twitter.com/for_lollipops)
 - [Telegram](https://t.me/MagicLoliLewds)
 
-## Important!
+# Important!
 - This is an archive of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
 
@@ -16,9 +16,10 @@ My Contact Info:
 
 - Latest update: 3/24/19
 
-## Alternative Piracy Megathread
+## Alternative Piracy Megathreads
 - [Awesome Homepage](https://github.com/sindresorhus/awesome#readme)
 	- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy/) - Contains alot more links and indepth guides.
+- [Wayback Machine /r/Piracy](https://web.archive.org/web/20190324073251/https://www.reddit.com/r/Piracy/wiki/megathread)
 
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
