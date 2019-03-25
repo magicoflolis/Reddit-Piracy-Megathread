@@ -12,7 +12,7 @@ My Contact Info:
 - This is an archive of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
 
-## THIS IS STILL A WIP!
+*THIS IS STILL A WIP!*
 
 - Latest update: 3/24/19
 
