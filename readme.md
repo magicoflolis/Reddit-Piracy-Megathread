@@ -8,7 +8,8 @@ Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
 
 ## THIS IS STILL A WIP!
-- Latest update: 3/21/19
+
+- Latest update: 3/24/19
 
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
