@@ -3,6 +3,11 @@
 
 Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 
+My Contact Info:
+- [Reddit](https://www.reddit.com/message/compose/?to=magic_of_lolis)
+- [Twitter](https://twitter.com/for_lollipops)
+- [Telegram](https://t.me/MagicLoliLewds)
+
 ## Important!
 - This is an archive of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
