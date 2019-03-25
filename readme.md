@@ -11,6 +11,9 @@ Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 
 - Latest update: 3/24/19
 
+## Alternative Piracy Megathread
+- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy/) - Contains alot more links and indepth guides.
+
 ## TABLE OF CONTENTS
 - [PRIVACY/SECURITY](#PRIVACY)
 	- [VPNs](#VPNs)
