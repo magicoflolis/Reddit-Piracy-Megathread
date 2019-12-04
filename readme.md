@@ -191,7 +191,6 @@ Issues with Calibre? Visit its forum for help/support:
 ## Roms
 - [the-eye.eu](http://the-eye.eu/public/rom/) - large collection of multi-platform console roms
 - [romulation.net](https://www.romulation.net/)
-- [emuparadise.me](https://www.emuparadise.me/) (NDS ROMS, PSP ROMS, PSX ROMS, NES ROMS, SNES ROMS, MAME, WII ROMS, etc...)
 - [emulation.gametechwiki.com](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - large wiki with several links to ROM/ISO dumps.
 - [Vimm's Lair](https://vimm.net/?p=vault) large collection of ROMs
 - [DarkUmbra](https://darkumbra.net/)
