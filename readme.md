@@ -1,14 +1,17 @@
-## /r/Piracy Megathread Archive
-![](https://raw.githubusercontent.com/aaronthecodpro/Reddit-Piracy-Megathread/master/data/redditprivacy.png)
+# /r/Piracy Megathread Archive **OUTDATED**
+
+![Header](https://raw.githubusercontent.com/magicoflolis/Reddit-Piracy-Megathread/master/data/redditprivacy.png)
 
 Made by [Magic Of Lolis](https://www.reddit.com/user/magic_of_lolis)
 
 My Contact Info:
+
 - [Reddit](https://www.reddit.com/message/compose/?to=magic_of_lolis)
 - [Twitter](https://twitter.com/for_lollipops)
 - [Telegram](https://t.me/MagicLoliLewds)
 
-# Important!
+## Important
+
 - This is an archive of [Piracy Megathread & soon Wiki](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [Main subreddit](https://www.reddit.com/r/Piracy)
 
@@ -17,48 +20,55 @@ My Contact Info:
 - Latest update: 3/24/19
 
 ## Alternative Piracy Megathreads
+
 - [Awesome Homepage](https://github.com/sindresorhus/awesome#readme)
-	- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy/) - Contains alot more links and indepth guides.
+  - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy/) - Contains alot more links and indepth guides.
 - [Wayback Machine /r/Piracy](https://web.archive.org/web/20190324073251/https://www.reddit.com/r/Piracy/wiki/megathread)
 
 ## TABLE OF CONTENTS
-- [PRIVACY/SECURITY](#PRIVACY)
-	- [VPNs](#VPNs)
-	- [Adblockers & useful extensions](#Adblockers)
-	- [Useful userscripts](#Userscripts)
-- [TORRENT CLIENTS](#TORRENTCLIENTS)
-- [TORRENT INDEXERS/SITES](#TORRENTINDEXERS)
-- [EBOOKS/TEXTBOOKS](#EBOOKS)
-	- [Popular sites for books](#Popular_sites_for_books)
-	- [Custom Search Engines](#CustomSearchEngines)
-	- [Private trackers](#Privatetrackers)
-	- [Magazines](#Magazines)
-	- [Comics](#Comics)
-- [COURSES/TUTORIALS](#COURSES)
-- [GAMES](#GAMES)
-	- [DDL sites (direct download)](#DDL)
-	- [Torrent sites](#Torrentsites)
-	- [Roms](#Roms)
-- [MOVIES/SERIES (streaming)](#MOVIES)
-	- [Anime](#Anime)
-- [MUSIC](#MUSIC)
-- [ANDROID](#ANDROID)
-	- [Torrent clients](#Torrentclients)
-	- [APK download sites](#APK)
-	- [Apps](#Apps)
-- [TOOLS](#TOOLS)
-- [DIRECT DOWNLOAD SITES](#DIRECTDOWNLOADSITES)
-- [MISCELLANEOUS](#MISCELLANEOUS)
-	- [Misc. apps:](#Miscapps)
-	- [Misc. websites:](#Miscwebsites)
-	- [Microsoft stuff:](#Microsoftstuff)
-		
+
+- [/r/Piracy Megathread Archive **OUTDATED**](#rpiracy-megathread-archive-outdated)
+	- [Important](#important)
+	- [Alternative Piracy Megathreads](#alternative-piracy-megathreads)
+	- [TABLE OF CONTENTS](#table-of-contents)
+	- [PRIVACY](#privacy)
+	- [VPNs](#vpns)
+	- [Adblockers](#adblockers)
+	- [Userscripts](#userscripts)
+	- [TORRENTCLIENTS](#torrentclients)
+	- [TORRENTINDEXERS](#torrentindexers)
+	- [EBOOKS](#ebooks)
+	- [Popular_sites_for_books](#popular_sites_for_books)
+	- [CustomSearchEngines](#customsearchengines)
+	- [Privatetrackers](#privatetrackers)
+	- [Magazines](#magazines)
+	- [Comics](#comics)
+	- [COURSES](#courses)
+	- [GAMES](#games)
+	- [DDL](#ddl)
+	- [Torrentsites](#torrentsites)
+	- [Roms](#roms)
+	- [MOVIES](#movies)
+	- [Anime](#anime)
+	- [MUSIC](#music)
+	- [ANDROID](#android)
+	- [Torrentclients](#torrentclients-1)
+	- [APK](#apk)
+	- [Apps](#apps)
+	- [TOOLS](#tools)
+	- [DIRECTDOWNLOADSITES](#directdownloadsites)
+	- [MISCELLANEOUS](#miscellaneous)
+	- [Miscapps](#miscapps)
+	- [Miscwebsites](#miscwebsites)
+	- [Microsoftstuff](#microsoftstuff)
+
 Update: The Piracy Megathread has been moved to the wiki! We now have the freedom to have multiple collaborators rather than rely on a single person. Our mod team will be able to update the thread with new findings and we will also be looking for active contributors to add as wiki collaborators. This wiki format also works to our favor in properly sectioning off parts of the Megathread.
 If you have any suggestions you'd like to see added to the Megathread, or would like to be added as a wiki collaborator, send us a mod mail here.
 
 ## PRIVACY
 
 ## VPNs
+
 - Popular VPN services aggressively market themselves on Reddit. Do not subscribe to a service just because Reddit deems it popular, cheap, or because it hits the front page. You are entrusting an entity with your personal data; do your own research. Keep in mind that VPN experiences are completely anecdotal. Someone's experience with a particular VPN may vary from location, servers, operating systems, downloads speeds, etc...
 - With that said, below are some resources with which you may begin your research. Most if not all popular VPNs offer trials and/or immediate refunds. Use them to your advantage in your quest to find a VPN that works best for you. Don't forget to also read their ToS!
 
@@ -317,4 +327,3 @@ Visit the ![wiki here](https://github.com/aaronthecodpro/Reddit-Piracy-Megathrea
 Credits to [u/Klappa4Me](https://www.reddit.com/u/Klappa4Me) for doing a lot of the heavy lifting.
 
 Last revised by [dysgraphical](https://www.reddit.com/user/dysgraphical) - 2 months ago
-
